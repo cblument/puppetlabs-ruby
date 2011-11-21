@@ -1,0 +1,4 @@
+module: puppetlabs/ruby
+version: 0.0.1
+url: file:///var/lib/puppet/puppet-module/cache/http_forge_puppetlabs_com-75a31f1d6f1ef6eb63b4479b3512ee1508209a7f/puppetlabs-ruby-0.0.1.tar.gz
+installed: Sun Nov 20 18:23:13 -0600 2011
